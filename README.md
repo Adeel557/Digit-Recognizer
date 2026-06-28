@@ -1,1 +1,2 @@
-# Digit-Recognizer
+# PAI_3
+Final Project
